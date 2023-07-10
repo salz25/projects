@@ -48,6 +48,8 @@
     </center>
 
     <div class="kotak"></div>
+    <div class="kotak"></div>
+    <div class="kotak"></div>
 </body>
 
 </html>
