@@ -1,5 +1,5 @@
 <?php 
- 
+//  koneksi 
 $host = "localhost";
 $user = "root";
 $password = "";
